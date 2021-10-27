@@ -1,0 +1,9 @@
+DELETE FROM rp_master.access_domain;
+DELETE FROM rp_master.access_school;
+DELETE FROM rp_master.user_profile_template;
+DELETE FROM rp_master.access;
+DELETE FROM rp_plan.domain;
+DELETE FROM rp_master.role_permissions;
+DELETE FROM rp_master.authentication_scope;
+DELETE FROM rp_master.user_profile;
+DELETE FROM rp_master.user;
